@@ -1,2 +1,4 @@
 # Shaders
-A scene with some custom shaders that I created in Unity.
+The build files for the Shader Showcase of my portfolio.
+
+Shader files here: https://github.com/solhandev/ShaderFiles
